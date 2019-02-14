@@ -1,4 +1,8 @@
-
+//INCLUDE STATEMENTS
+// Including the libraries with the functions we need for this program
+#include <Wire.h>
+#include <seeed-kit.h>
+#include <Servo.h>
 
 //FUNCTION DECLARATIONS - Declarations for functions defined in this file
 /*TODO - Declare the function you plan to write here */
