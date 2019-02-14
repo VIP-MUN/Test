@@ -1,8 +1,4 @@
-//INCLUDE STATEMENTS
-// Including the libraries with the functions we need for this program
-#include <Wire.h>
-#include <seeed-kit.h>
-#include <Servo.h>
+
 
 //FUNCTION DECLARATIONS - Declarations for functions defined in this file
 /*TODO - Declare the function you plan to write here */
@@ -47,7 +43,7 @@ int main() {
  * @returns         nothing
  * 
  * @modifies        adjusts brightness of RGBA LED
- * @modifies        outputs sensed brightness level AND RGBA LED brightness
+ * @modifies        output sensed brightness level AND RGBA LED brightness
  *                  setting, as text to LCD screen
  */
 /*TODO - Implement adjustLight() based on contract specification */
